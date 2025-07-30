@@ -47,8 +47,8 @@ I’m currently building real-world web apps like HungryScan and TalentHub while
 ## 📈 GitHub Stats
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaTull&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaTull&layout=compact&theme=tokyonight" />
 </p>
 
 ---
