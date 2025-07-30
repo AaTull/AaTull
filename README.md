@@ -1,18 +1,27 @@
 # 👋 Hi, I'm Atul
 
-🎓 Final Year B.Sc. Computer Science Student
-💻 Passionate Full-Stack Developer | SaaS Builder  
+🎓 B.Sc. Computer Science Graduate   
+💻 Full-Stack Developer | SaaS Builder | Open to Job Opportunities  
 📍 Based in Pune, India  
 
-I’m currently building real-world web apps like HungryScan and TalentHub while learning full-stack development. I'm on a mission to launch my own software company and help local businesses go digital 🚀
+I'm passionate about building real-world applications that solve everyday problems. Currently focused on developing SaaS products and sharpening my full-stack development skills. Always open to opportunities where I can learn, grow, and contribute.
 
 ---
 
-## 🚀 Projects I'm Building
+## 🚀 Projects I'm Working On
 
-- 🔧 **HungryScan** — A QR-based hotel food ordering system with multi-tenant SaaS features (React + Node.js)
-- 🧑‍💼 **TalentHub** — A service listing platform connecting local providers and seekers
-- 📱 **DevPulse** — A personal React Native to-do app to track my learning and project goals
+- 🔧 **HungryScan** *(Private Repository)*  
+  A multi-tenant SaaS platform for hotels to manage food ordering via QR codes.  
+  _Tech_: React, Tailwind CSS, Node.js, MongoDB  
+  _Status_: Actively Developing
+
+- 🧑‍💼 **TalentHub** *(Private Repository)*  
+  A local service listing and provider-seeker matching platform.  
+  _Tech_: PHP, MySQL, HTML, CSS 
+  _Status_: MVP in progress
+
+- 📱 **DevPulse** *(Coming Soon)*  
+  A mobile app to manage tasks and learning goals (built with React Native + Expo)
 
 ---
 
@@ -44,25 +53,21 @@ I’m currently building real-world web apps like HungryScan and TalentHub while
 
 ---
 
-
----
-
 ## 🌱 Currently Learning
 
-- 🔒 Authentication & Authorization (JWT, Sessions)
-- 📱 React Native & Expo
-- 🧠 SaaS backend architecture (multi-tenancy, billing, roles)
+- Backend architecture for SaaS  
+- React Native & Expo  
+- Authentication & role-based access (JWT, sessions)
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: **your.email@example.com**  
+- 📧 Email: **atul.kaithvas@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/atul-kaithwas-862871371/)  
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
 
 ### 💭 Fun Fact
-> I'm building my dream SaaS startup from scratch while still in college — one step at a time 💪
-
+> I’m building my own SaaS startup while also preparing for my first developer job — always learning, always building 🚀
