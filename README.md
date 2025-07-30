@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atul
 
-🎓 Final Year B.Sc. Computer Science Student (2024–25)  
+🎓 Final Year B.Sc. Computer Science Student
 💻 Passionate Full-Stack Developer | SaaS Builder  
 📍 Based in Pune, India  
 
@@ -64,7 +64,7 @@ I’m currently building real-world web apps like HungryScan and TalentHub while
 ## 📫 Let's Connect
 
 - 📧 Email: **your.email@example.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/atul-kaithwas-862871371/)  
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
