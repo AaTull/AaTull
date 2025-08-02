@@ -65,7 +65,7 @@ I'm passionate about building real-world applications that solve everyday proble
 
 - 📧 Email: **atul.kaithvas@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/atul-kaithwas-862871371/)  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🌐 
 
 ---
 
