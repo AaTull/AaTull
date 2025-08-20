@@ -20,8 +20,7 @@ I'm passionate about building real-world applications that solve everyday proble
   _Tech_: PHP, MySQL, HTML, CSS 
   _Status_: MVP in progress
 
-- 📱 **DevPulse** *(Coming Soon)*  
-  A mobile app to manage tasks and learning goals (built with React Native + Expo)
+
 
 ---
 
