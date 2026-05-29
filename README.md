@@ -77,23 +77,3 @@ A local service marketplace connecting providers with customers.
 * React Native (Expo)
 
 ---
-
-## 📈 Goals
-
-* 🚀 Launch HungryScan as a SaaS product
-* 💼 Get my first developer job
-* 🏢 Build my own software company
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: your-linkedin-url
-* 🌐 Portfolio: coming soon
-
----
-
-## 💭 Fun Fact
-
-> I'm building my own SaaS startup while preparing for my first developer job — always learning, always building 🚀
